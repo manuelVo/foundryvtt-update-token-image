@@ -1,0 +1,24 @@
+{
+	"name": "update-token-image",
+	"title": "Update Token Image",
+	"description": "Changes the Prototype Token's image when an Actor's image is being changed",
+	"version": "0.0.1",
+	"minimumCoreVersion" : "0.8.9",
+	"compatibleCoreVersion" : "0.8.9",
+	"authors": [
+		{
+			"name": "Manuel Vögele",
+			"email": "develop@manuel-voegele.de",
+			"discord": "Stäbchenfisch#5107"
+		}
+	],
+	"esmodules": [
+		"src/libwrapper_shim.js",
+		"src/main.js"
+	],
+	"url": "https://github.com/manuelVo/foundryvtt-update-token-image",
+	"download": "https://github.com/manuelVo/foundryvtt-update-token-image/archive/master.zip",
+	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-update-token-image/master/module.json",
+	"bugs": "https://github.com/manuelVo/foundryvtt-update-token-image/issues",
+	"allowBugReporter": true
+}
