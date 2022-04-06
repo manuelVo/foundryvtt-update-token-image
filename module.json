@@ -3,7 +3,7 @@
 	"title": "Update Token Image",
 	"description": "Changes the Prototype Token's image when an Actor's image is being changed",
 	"version": "1.0.0",
-	"minimumCoreVersion" : "0.8.9",
+	"minimumCoreVersion" : "9.238",
 	"compatibleCoreVersion" : "9",
 	"authors": [
 		{
