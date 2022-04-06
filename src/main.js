@@ -44,6 +44,6 @@ async function updateObject(wrapped, event, formData) {
 		return;
 	const result = await wrapped(event, formData);
 	if (event.updateTokenImageChecked)
-		await this.object.data.token.update({img: formData.img});
+		await this.object.update({token: {img: formData.img}});
 	return result;
 }
