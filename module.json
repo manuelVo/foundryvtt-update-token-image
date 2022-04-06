@@ -2,7 +2,7 @@
 	"name": "update-token-image",
 	"title": "Update Token Image",
 	"description": "Changes the Prototype Token's image when an Actor's image is being changed",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minimumCoreVersion" : "9.238",
 	"compatibleCoreVersion" : "9",
 	"authors": [
@@ -29,7 +29,7 @@
 		}
 	],
 	"url": "https://github.com/manuelVo/foundryvtt-update-token-image",
-	"download": "https://github.com/manuelVo/foundryvtt-update-token-image/archive/v1.0.0.zip",
+	"download": "https://github.com/manuelVo/foundryvtt-update-token-image/archive/v1.0.1.zip",
 	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-update-token-image/master/module.json",
 	"readme": "https://github.com/manuelVo/foundryvtt-update-token-image/blob/master/README.md",
 	"changelog": "https://github.com/manuelVo/foundryvtt-update-token-image/blob/master/CHANGELOG.md",
